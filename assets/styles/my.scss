@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+form {
+  width: 100%;
+  padding: 50px 0;
+  display: block;
+  margin: 0 auto;
+}
+
+.form-group {
+  width: 100%;
+  position: relative;
+  margin: 0 0 50px; 
+;
+}
+
+.my-form-group {
+        width: 100%;
+        position: relative;
+        margin: 0 0 50px;
+
+      }  
+    }
